@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Simulacon Cardio Vascular</string>
+    <string name="Contacto">Contacto</string>
+    <string name="Diagnostico">Diagnostico</string>
 </resources>
